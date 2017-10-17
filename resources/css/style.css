@@ -6,9 +6,25 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 20px;
+  color: gray;
+  text-align: center;
+}
+
 .dwnld {
   color: aquamarine;
   font-size: 16px;
+  text-align: center;
 }
 
 html {
