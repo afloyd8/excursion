@@ -14,7 +14,7 @@ h2 {
   text-align: center;
 }
 
-p {
+main {
   font-family: Verdana;
   font-size: 20px;
   color: gray;
@@ -29,4 +29,27 @@ p {
 
 html {
   background-color: black;
+}
+
+span.copyright {
+  font-family: Verdana;
+  font-size: 20px;
+  color: gray;
+  text-align: right;
+}
+
+footer  {
+  text-align: right;
+}
+
+#top {
+  text-align: center;
+}
+
+#middle {
+  text-align: center;
+}
+
+#bottom {
+  text-align: center;
 }
